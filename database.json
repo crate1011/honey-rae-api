@@ -112,13 +112,6 @@
       "dateCompleted": ""
     },
     {
-      "id": 5,
-      "userId": 1,
-      "description": "Pariatur nihil animi eos doloremque laborum fugiat consequuntur iusto. Et tempore a enim. creek",
-      "emergency": true,
-      "dateCompleted": "Fri Apr 29 2022 21:24:29 GMT-0500 (Central Daylight Time)"
-    },
-    {
       "userId": 2,
       "description": "breifs yo stop",
       "emergency": true,
@@ -131,11 +124,6 @@
       "id": 1,
       "employeeId": 3,
       "serviceTicketId": 1
-    },
-    {
-      "id": 2,
-      "employeeId": 2,
-      "serviceTicketId": 5
     },
     {
       "id": 3,
